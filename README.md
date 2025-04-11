@@ -1,8 +1,4 @@
 # 2020-24-boxoffice-analysis using POWERBI
-Here's a professional and clear **README.md** document you can use for your GitHub repository for the Power BI dashboard project based on box office collections:
-
----
-
 # 🎬 Box Office Collections Dashboard (2020–2024)
 
 This repository contains an interactive Power BI project that visualizes box office collection data for movies released between 2020 and 2024. The dashboards provide insights into annual trends, top-performing films, and comparative analysis across the years.
